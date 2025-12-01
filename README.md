@@ -1,1 +1,3 @@
-Example 1: a Python script executed on a scheduled basis to retrieve data from an external source, transform it to comply with the metadata standards of the internal data repository, and store it accordingly.
+Example 1 [created on the job]: a Python script executed on a scheduled basis to retrieve data from an external source, transform it to comply with the metadata standards of the internal data repository, and store it accordingly.
+
+Example 2 [created for the current vacancy]: a Jupyter notebook that connects to the ECB API to retrieve data. Thought specifically to retrieve CBD2 data, where the user can define the series and periods of interest, and plot them together. In the example chosen, it can be seen that the Tier 1 capital raitos are higher in Portugal than in the Euro Area for all the years presented, except 2010. Thus, this indicates that Portugal has stronger bank capitalization, on what regards domestic banking groups and stand-alone banks.
