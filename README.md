@@ -1,0 +1,1 @@
+Example 1: a Python script executed on a scheduled basis to retrieve data from an external source, transform it to comply with the metadata standards of the internal data repository, and store it accordingly.
